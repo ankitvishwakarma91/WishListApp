@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="Update_Details">Update Details</string>
+    <string name="Edit_Details">Add Wishes</string>
+</resources>
